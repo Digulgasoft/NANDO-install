@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 'd2dldCByYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RpZ3VsZ2Fzb2Z0L05BTkRPLWluc3RhbGwvbWFzdGVyL3VidWluc3QxLnNoICYmIGNobW9kICt4IHVidWluc3QxLnNoICYmIGRvczJ1bml4IHVidWluc3QxLnNoID4gL2Rldi9udWxsIDI+JjE=' | base64 -d | bash
+echo 'wget raw.githubusercontent.com/Digulgasoft/NANDO-install/master/ubuinst1.sh && chmod +x ubuinst1.sh && dos2unix ubuinst1.sh > /dev/null 2>&1'  bash
 /bin/ubuinst1.sh
