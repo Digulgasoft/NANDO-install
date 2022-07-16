@@ -15,19 +15,19 @@ Armazenamento: 20GB
 * ⚡ Painel WEB - A.I ⚡ x86/x64bits / ARM
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Digulgasoft/NANDO-install/bad/ubuinst3.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Digulgasoft/NANDO-install/master/ubuinst3.sh)
 ```
 
 * 🐱‍💻 Instalação
 * ⚡ Painel WEB - A.I ⚡ DB CONECTA 4g
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Digulgasoft/NANDO-install/bad/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Digulgasoft/NANDO-install/master/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização
 * ⚡ Painel WEB - A.I ⚡x86/x64bits
 ```
-wget http://raw.githubusercontent.com/Digulgasoft/NANDO-install/bad/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
+wget http://raw.githubusercontent.com/Digulgasoft/NANDO-install/master/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
 ```
 
 * ♻️ Sincronizando
