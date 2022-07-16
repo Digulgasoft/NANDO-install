@@ -39,3 +39,5 @@ wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.ht
  Powered By: <a href="https://digulgasoft.com/?product=revenda-internet-ilimitada-4g">CONEXAO NET</a> / And <a href="https://t.me/AlexabdreDG">󠁵󠁳󠁴󠁸󠁿ALEXANDRE</a>.
 
 CONEXAO-NET
+
+PainelA.I-FREE
